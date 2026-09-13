@@ -63,7 +63,6 @@ body {
 
 .about nav a:hover {
   background-color: #0c969c;
-  transform: translateY(5px);
 }
 
 #about-me {
