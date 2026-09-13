@@ -432,9 +432,7 @@ hr {
 
 
 @media (max-width: 811px) {
-  body {
-    overflow: hidden;
-  }
+
 
   main {
     left: 0;
@@ -474,7 +472,6 @@ hr {
 
 @media (max-width: 680px) {
   body {
-    overflow: hidden;
     right: 0;
   }
 
